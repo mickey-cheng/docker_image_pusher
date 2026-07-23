@@ -2,3 +2,4 @@ mysql:8.4.10
 python:3.13-slim
 phpmyadmin:5.2.3
 redis:8.8.0
+openresty/openresty:1.31.1.1-0-noble-amd64
