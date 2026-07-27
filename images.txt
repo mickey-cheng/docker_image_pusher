@@ -5,3 +5,4 @@ redis:8.8.0
 1panel/openresty:1.31.1.1-0-noble
 1panel/php:8.5.8-fpm
 docker.io/1panel/php:8.5.8-fpm
+drakkan/sftpgo:latest
