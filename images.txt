@@ -6,3 +6,4 @@ redis:8.8.0
 1panel/php:8.5.8-fpm
 docker.io/1panel/php:8.5.8-fpm
 drakkan/sftpgo:latest
+vaultwarden/server:latest
