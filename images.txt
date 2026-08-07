@@ -10,4 +10,4 @@ vaultwarden/server:latest
 postgres:16
 redis:7
 zlmediakit/zlmediakit:master
-648540858/wvp-pro
+648540858/wvp_pro
