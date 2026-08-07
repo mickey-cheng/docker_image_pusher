@@ -7,3 +7,7 @@ redis:8.8.0
 docker.io/1panel/php:8.5.8-fpm
 drakkan/sftpgo:latest
 vaultwarden/server:latest
+postgres:16
+redis:7
+zlmediakit/zlmediakit:master
+648540858/wvp-pro
