@@ -11,3 +11,4 @@ postgres:16
 redis:7
 zlmediakit/zlmediakit:master
 648540858/wvp_pro
+dpage/pgadmin4:9.18.0
