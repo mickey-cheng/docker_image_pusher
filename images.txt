@@ -1,14 +1,1 @@
-mysql:8.4.10
-python:3.13-slim
-phpmyadmin:5.2.3
-redis:8.8.0
-1panel/openresty:1.31.1.1-0-noble
-1panel/php:8.5.8-fpm
-docker.io/1panel/php:8.5.8-fpm
-drakkan/sftpgo:latest
-vaultwarden/server:latest
-postgres:16
-redis:7
-zlmediakit/zlmediakit:master
-648540858/wvp_pro
 dpage/pgadmin4:9.18.0
