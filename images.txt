@@ -1,1 +1,2 @@
 dpage/pgadmin4:9.18.0
+rustfs/rustfs
