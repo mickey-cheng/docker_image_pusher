@@ -1,2 +1,3 @@
 dpage/pgadmin4:9.18.0
 rustfs/rustfs
+nocobase/nocobase:2.2
