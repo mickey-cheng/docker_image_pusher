@@ -2,3 +2,4 @@ dpage/pgadmin4:9.18.0
 rustfs/rustfs
 nocobase/nocobase:2.2
 nextcloud:35-apache
+redis:7-alpine
